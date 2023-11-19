@@ -1,7 +1,9 @@
 import "./App.css";
+import React from "react";
+import Dashboard from "./components/Dashboard";
 
-function App() {
-  return <h1 className="text-3xl font-bold underline">Hello world!</h1>;
-}
+const App = () => {
+  return <Dashboard />;
+};
 
 export default App;

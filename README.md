@@ -8,6 +8,7 @@ Additionally, the user will be sharing a view of the page with specific filters 
 
 - React
 - TailwindCSS
+- Chart.js
 
 ## Task1: Interactive Data Visualization
 
