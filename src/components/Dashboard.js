@@ -35,7 +35,7 @@ const Dashboard = () => {
     <>
       <div className="flex justify-between p-4">
         <div>
-          <h1 className="font-bold">Interactive Dashboard</h1>
+          <h1 className="font-bold text-3xl">Interactive Dashboard</h1>
         </div>
         <div>{/* <input type="date" /> */}</div>
       </div>
