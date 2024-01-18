@@ -9,6 +9,7 @@ Additionally, the user will be sharing a view of the page with specific filters 
 - React
 - TailwindCSS
 - Chart.js
+- react-tailwindcss-datepicker
 
 ## Task1: Interactive Data Visualization
 
